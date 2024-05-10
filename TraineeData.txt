@@ -1,0 +1,2 @@
+Name: Krutika, Phone: 9967346284, Address: The Maltings Vulcan house 181106, Gender: Female, Email: krutika@gmail.com
+Name: Ram, Phone: 7760593605, Address: Mumbai, Gender: Male, Email: ram@gmail.com
